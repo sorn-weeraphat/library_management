@@ -1,9 +1,9 @@
 [project]
 name = "library_management"
 authors = [
-    { name = "sorn", email = "sorncr7@gmail.com"}
+    { name = "sorn-weeraphat", email = "wannakit.sorn@gmail.com"}
 ]
-description = "Library Management System"
+description = "Library management system"
 requires-python = ">=3.14"
 readme = "README.md"
 dynamic = ["version"]

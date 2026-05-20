@@ -1,8 +1,8 @@
 app_name = "library_management"
 app_title = "Library Management"
-app_publisher = "sorn"
-app_description = "Library Management System"
-app_email = "sorncr7@gmail.com"
+app_publisher = "sorn-weeraphat"
+app_description = "Library management system"
+app_email = "wannakit.sorn@gmail.com"
 app_license = "mit"
 
 # Apps
